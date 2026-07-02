@@ -186,6 +186,7 @@ export const projects = [
       "React Native",
       "Node.js",
       "Express.js",
+      "Tailwind Css",
       "PostgreSQL",
       "Razorpay"
     ],
